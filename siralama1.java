@@ -61,7 +61,7 @@ public class siralama1 {
     public static void diziYaz(int[][] dizi) {
         for (int i = 0; i < dizi.length; i++) {
             for (int j = 0; j < dizi[0].length; j++) {
-                System.out.print(dizi[i][j] + " ");
+                System.out.println(dizi[i][j] + " ");
             }
             System.out.println();
             }
